@@ -6,8 +6,6 @@
   
 ## Projects
 ### Bi-axial test fixture
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
 Designed and developed a bi-axial tension/shear test fixture using SolidWorks, optimizing measurement accuracy by 15% for complex multi-axial stress states
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
