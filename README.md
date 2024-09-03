@@ -1,5 +1,4 @@
-# MarcAnthony3.github.io
-# Data Scientist
+# MarcAnthony
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
