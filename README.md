@@ -5,16 +5,28 @@
 - B.S., Mechanical Engineering | California State University Northridge (Dec. 2025)
   
 ## Projects
-### Bi-axial test fixture
-Designed and developed a bi-axial tension/shear test fixture using SolidWorks, optimizing measurement accuracy by 15% for complex multi-axial stress states
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Bi-axial test fixture (May 2024)
+- Designed and developed a bi-axial tension/shear test fixture using SolidWorks, optimizing measurement accuracy by 15% for complex multi-axial stress states
+- Engineered the fixture with ASTM A572 Grade 50 steel, enhancing strength and cost-efficiency for reliable and repeatable test results
+- Integrated high-strength, low-alloy steel components, ensuring durability and dimensional stability through repeated testing cycles
+- Executed comprehensive CAD modeling, from initial concept to final assembly, demonstrating expertise in mechanical design and multi-component alignment
+- Facilitated accurate and consistent testing by meticulously aligning and securing various fixture parts, enhancing overall performance in aerospace and automotive applications
+  
+### Four cylinder motor SolidWorks (Mar. 2024)
+- Designed and developed a four-cylinder engine model using SolidWorks, optimizing the balance between power output, fuel efficiency, and operational smoothness for versatile applications
+- Engineered with precision, reducing rotational mass by 9% through the use of titanium and steel, enhancing durability and performance
+- Showcased expertise in mechanical design by modeling key engine components—including connecting rods, pistons, and crankshaft—ensuring proper alignment, fitment, and performance
+- Demonstrated the complex interplay of engine components, resulting in a 15% increase in mechanical power conversion efficiency
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### PSP 1000 SolidWorks (Jan. 2024)
+- Created an intricate 3D model of the PlayStation Portable (PSP) 1000 using SolidWorks, capturing the device's iconic design with 95% accuracy
+- Utilized advanced sketch tools to meticulously replicate the PSP's ergonomic form factor, precise button layouts, UMD drive, and other critical components with high accuracy
+- Enhanced the model's visual realism by simulating the PSP's signature screen backlight effect, using SolidWorks appearance tools to achieve a lifelike glow
+- Demonstrated comprehensive understanding of portable gaming device engineering by integrating all key elements and features that defined the PSP 1000's success in the market
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### 
 
-![Bike Study](/assets/img/bike_study.jpeg)
+
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
