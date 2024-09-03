@@ -2,7 +2,7 @@
 
 #### Technical Skills: SolidWorks, Arduino IDE, TinkerCAD, Excel, Microsoft Suite
 ## Education		        		
-- B.S., Mechanical Engineering | California State University Northridge (Expected Dec.2025)
+- B.S., Mechanical Engineering | California State University Northridge (Dec. 2025)
   
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
