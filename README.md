@@ -31,7 +31,7 @@
 ### PSP 1000 SolidWorks (Jan. 2024)
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="/assets/Psp1000Assem.jpg" alt="PSP 1000 Front" style="width: 48%;">
-  <img src="/assets/psp1000Back.jpg" alt="4 PSP 1000 Back" style="width: 40%;">
+  <img src="/assets/psp1000Back.jpg" alt="4 PSP 1000 Back" style="width: 48%;">
 </div>
 
 - Created an intricate 3D model of the PlayStation Portable (PSP) 1000 using SolidWorks, capturing the device's iconic design with 95% accuracy
