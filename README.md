@@ -1,9 +1,9 @@
 # MarcAnthony Diaz
 
-#### Technical Skills: SolidWorks, Arduino IDE, TinkerCAD, Excel, Microsoft Suite
+
 ## Education		        		
 - B.S., Mechanical Engineering | California State University Northridge (Dec. 2025)
-  
+#### Technical Skills: SolidWorks, Arduino IDE, TinkerCAD, Excel, Microsoft Suite  
 ## Projects
 ### Bi-axial test fixture (May 2024)
 <div style="display: flex; justify-content: space-between; align-items: center;">
