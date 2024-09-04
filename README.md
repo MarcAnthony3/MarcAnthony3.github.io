@@ -24,7 +24,7 @@
 - Enhanced the model's visual realism by simulating the PSP's signature screen backlight effect, using SolidWorks appearance tools to achieve a lifelike glow
 - Demonstrated comprehensive understanding of portable gaming device engineering by integrating all key elements and features that defined the PSP 1000's success in the market
 
-  ### Arduino Uno Night Light C++ (Jan. 2024)
+### Arduino Uno Night Light C++ (Jan. 2024)
 - Developed an automated night light system using Arduino Uno, incorporating a photoresistor, LED, and custom coding to detect light levels and control LED illumination
 - Programmed the circuit to dynamically respond to environmental light changes, activating the LED in low-light conditions and turning it off when sufficient light is detected, all controlled through Arduino IDE
 - Implemented user interaction through a button input, enabling manual toggling of the circuit's functionality and providing hands-on control of the lighting system
