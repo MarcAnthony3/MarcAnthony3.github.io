@@ -20,7 +20,7 @@
 ### Four cylinder motor SolidWorks (Mar. 2024)
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="/assets/4cylinderAssem.jpg" alt="4 Cylinder Assembly" style="width: 48%;">
-  <img src="/assets/4cylinderExploted.jpg" alt="4 Cylinder Exploded View" style="width: 48%;">
+  <img src="/assets/4cylinderExploted.jpg" alt="4 Cylinder Exploded View" style="width: 40%;">
 </div>
 
 - Designed and developed a four-cylinder engine model using SolidWorks, optimizing the balance between power output, fuel efficiency, and operational smoothness for versatile applications
