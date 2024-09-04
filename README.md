@@ -8,7 +8,7 @@
 ### Bi-axial test fixture (May 2024)
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="/assets/BiaxialAssem.jpg" alt="Biaxial Fixture" style="width: 35%;">
-  <img src="/assets/biaxialExploted.jpg" alt="Biaxial Fixture Exploded" style="width: 49%;">
+  <img src="/assets/biaxialExploted.jpg" alt="Biaxial Fixture Exploded" style="width: 50%;">
 </div>
 
 - Designed and developed a bi-axial tension/shear test fixture using SolidWorks, optimizing measurement accuracy by 15% for complex multi-axial stress states
