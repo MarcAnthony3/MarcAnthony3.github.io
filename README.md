@@ -1,7 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h1 style="margin: 0;">MarcAnthony Diaz</h1>
-  <p style="margin: 0;"><a href="mailto:19marcanthony99@gmail.com">19marcanthony99@gmail.com</a></p>
-</div>
+# MarcAnthony Diaz <span style="float: right; font-size: 16px; font-weight: normal;"><a href="mailto:19marcanthony99@gmail.com">19marcanthony99@gmail.com</a></span>
 
 ## Education		        		
 - B.S., Mechanical Engineering | California State University Northridge (Dec. 2025)
