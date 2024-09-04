@@ -31,7 +31,7 @@
 ### PSP 1000 SolidWorks (Jan. 2024)
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="/assets/Psp1000Assem.jpg" alt="PSP 1000 Front" style="width: 48%;">
-  <img src="/assets/psp1000Back.jpg" alt="4 PSP 1000 Back" style="width: 50%;">
+  <img src="/assets/psp1000Back.jpg" alt="PSP 1000 Back" style="width: 50%;">
 </div>
 
 - Created an intricate 3D model of the PlayStation Portable (PSP) 1000 using SolidWorks, capturing the device's iconic design with 95% accuracy
@@ -40,11 +40,21 @@
 - Demonstrated comprehensive understanding of portable gaming device engineering by integrating all key elements and features that defined the PSP 1000's success in the market
 
 ### Arduino Uno Night Light C++ (Jan. 2024)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="/assets/NightLight1" alt="NightLight1" style="width: 48%;">
+  <img src="/assets/NightLight2.jpg" alt="NightLight2" style="width: 48%;">
+</div>
+
 - Developed an automated night light system using Arduino Uno, incorporating a photoresistor, LED, and custom coding to detect light levels and control LED illumination
 - Programmed the circuit to dynamically respond to environmental light changes, activating the LED in low-light conditions and turning it off when sufficient light is detected, all controlled through Arduino IDE
 - Implemented user interaction through a button input, enabling manual toggling of the circuit's functionality and providing hands-on control of the lighting system
   
 ### Arduino Uno LCD Display C++ (Apr. 2024)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="/assets/LCD1.jpg" alt="LCD1" style="width: 48%;">
+  <img src="/assets/LCD2.jpg" alt="LCD2" style="width: 48%;">
+</div>
+
 - Developed an interactive LCD display system using Arduino Uno, integrating a potentiometer for real-time brightness control and custom coding for dynamic message management
 - Implemented a program that alternates between two messages every 3 seconds, showcasing skills in timing and display control using Arduino IDE
 - Engineered a timer function to track and display elapsed time since program startup, demonstrating proficiency in real-time data processing and display
