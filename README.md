@@ -41,7 +41,7 @@
 
 ### Arduino Uno Night Light C++ (Jan. 2024)
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="/assets/NightLight1" alt="NightLight1" style="width: 48%;">
+  <img src="/assets/NightLight1.jpg" alt="NightLight1" style="width: 48%;">
   <img src="/assets/NightLight2.jpg" alt="NightLight2" style="width: 48%;">
 </div>
 
