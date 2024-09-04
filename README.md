@@ -5,6 +5,7 @@
 - B.S. , Mechanical Engineering | California State University Northridge (Dec. 2025)
 #### Technical Skills: SolidWorks, Microcontroller Coding, Arduino IDE, TinkerCAD, Excel, Microsoft Suite  
 
+
 ## SolidWorks Projects
 ### Bi-axial test fixture (May 2024)
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -39,6 +40,7 @@
 - Utilized advanced sketch tools to meticulously replicate the PSP's ergonomic form factor, precise button layouts, UMD drive, and other critical components with high accuracy
 - Enhanced the model's visual realism by simulating the PSP's signature screen backlight effect, using SolidWorks appearance tools to achieve a lifelike glow
 - Demonstrated comprehensive understanding of portable gaming device engineering by integrating all key elements and features that defined the PSP 1000's success in the market
+
 
 ## Arduino Uno Projects
 ### Night Light (Jan. 2024)
