@@ -18,6 +18,11 @@
 - Facilitated accurate and consistent testing by meticulously aligning and securing various fixture parts, enhancing overall performance in aerospace and automotive applications
   
 ### Four cylinder motor SolidWorks (Mar. 2024)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="/assets/4cylinderAssem.jpg" alt="4 Cylinder Assembly" style="width: 48%;">
+  <img src="/assets/4cylinderExploted.jpg" alt="4 Cylinder Exploded View" style="width: 48%;">
+</div>
+
 - Designed and developed a four-cylinder engine model using SolidWorks, optimizing the balance between power output, fuel efficiency, and operational smoothness for versatile applications
 - Engineered with precision, reducing rotational mass by 9% through the use of titanium and steel, enhancing durability and performance
 - Showcased expertise in mechanical design by modeling key engine components—including connecting rods, pistons, and crankshaft—ensuring proper alignment, fitment, and performance
