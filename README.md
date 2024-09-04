@@ -7,7 +7,7 @@
 ## Projects
 ### Bi-axial test fixture (May 2024)
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="/assets/BiaxialAssem.jpg" alt="Biaxial Fixture" style="width: 35%;">
+  <img src="/assets/BiaxialAssem.jpg" alt="Biaxial Fixture" style="width: 36%;">
   <img src="/assets/biaxialExploted.jpg" alt="Biaxial Fixture Exploded" style="width: 50%;">
 </div>
 
