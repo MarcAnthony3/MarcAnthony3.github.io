@@ -4,7 +4,7 @@
 ## Education		        		
 - B.S., Mechanical Engineering | California State University Northridge (Dec. 2025)
 #### Technical Skills: SolidWorks, Microcontroller Coding, Arduino IDE, TinkerCAD, Excel, Microsoft Suite  
-## Projects
+## SolidWorks Projects
 ### Bi-axial test fixture (May 2024)
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="/assets/BiaxialAssem.jpg" alt="Biaxial Fixture" style="width: 35%;">
@@ -17,7 +17,7 @@
 - Executed comprehensive CAD modeling, from initial concept to final assembly, demonstrating expertise in mechanical design and multi-component alignment
 - Facilitated accurate and consistent testing by meticulously aligning and securing various fixture parts, enhancing overall performance in aerospace and automotive applications
   
-### Four cylinder motor SolidWorks (Mar. 2024)
+### Four cylinder motor (Mar. 2024)
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="/assets/4cylinderAssem.jpg" alt="4 Cylinder Assembly" style="width: 48%;">
   <img src="/assets/4cylinderExploted.jpg" alt="4 Cylinder Exploded View" style="width: 41%;">
@@ -28,7 +28,7 @@
 - Showcased expertise in mechanical design by modeling key engine components—including connecting rods, pistons, and crankshaft—ensuring proper alignment, fitment, and performance
 - Demonstrated the complex interplay of engine components, resulting in a 15% increase in mechanical power conversion efficiency
 
-### PSP 1000 SolidWorks (Jan. 2024)
+### PSP 1000 (Jan. 2024)
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="/assets/Psp1000Assem.jpg" alt="PSP 1000 Front" style="width: 48%;">
   <img src="/assets/psp1000Back.jpg" alt="PSP 1000 Back" style="width: 50%;">
