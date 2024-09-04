@@ -43,7 +43,7 @@
 
 
 ## Arduino Uno Projects
-### Night Light (Jan. 2024)
+### LED Night Light (Jan. 2024)
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="/assets/NightLight1.jpg" alt="NightLight1" style="width: 38%;">
   <img src="/assets/NightLight2.jpg" alt="NightLight2" style="width: 37%;">
