@@ -51,7 +51,7 @@
   
 ### Arduino Uno LCD Display C++ (Apr. 2024)
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="/assets/LCD1.jpg" alt="LCD1" style="width: 48%;">
+  <img src="/assets/LCD1.jpg" alt="LCD1" style="width: 49%;">
   <img src="/assets/LCD2.jpg" alt="LCD2" style="width: 48%;">
 </div>
 
