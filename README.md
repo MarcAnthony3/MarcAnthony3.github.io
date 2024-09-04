@@ -6,7 +6,7 @@
   
 ## Projects
 ### Bi-axial test fixture (May 2024)
-![BiaxialFixture](/assetsBiaxialAssem.jpg)
+assets/biaxialExploted.jpg
 - Designed and developed a bi-axial tension/shear test fixture using SolidWorks, optimizing measurement accuracy by 15% for complex multi-axial stress states
 - Engineered the fixture with ASTM A572 Grade 50 steel, enhancing strength and cost-efficiency for reliable and repeatable test results
 - Integrated high-strength, low-alloy steel components, ensuring durability and dimensional stability through repeated testing cycles
