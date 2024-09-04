@@ -23,9 +23,17 @@
 - Utilized advanced sketch tools to meticulously replicate the PSP's ergonomic form factor, precise button layouts, UMD drive, and other critical components with high accuracy
 - Enhanced the model's visual realism by simulating the PSP's signature screen backlight effect, using SolidWorks appearance tools to achieve a lifelike glow
 - Demonstrated comprehensive understanding of portable gaming device engineering by integrating all key elements and features that defined the PSP 1000's success in the market
-
-### 
-
+  
+### Arduino Uno LCD Display C++ (April 2024)
+- Developed an interactive LCD display system using Arduino Uno, integrating a potentiometer for real-time brightness control and custom coding for dynamic message management
+- Implemented a program that alternates between two messages every 3 seconds, showcasing skills in timing and display control using Arduino IDE
+- Engineered a timer function to track and display elapsed time since program startup, demonstrating proficiency in real-time data processing and display
+- Utilized a breadboard and wiring to create a fully functional prototype, highlighting practical skills in electronic assembly and circuit design
+  
+### Arduino Uno Night Light C++ (Jan. 2024)
+- Developed an automated night light system using Arduino Uno, incorporating a photoresistor, LED, and custom coding to detect light levels and control LED illumination
+- Programmed the circuit to dynamically respond to environmental light changes, activating the LED in low-light conditions and turning it off when sufficient light is detected, all controlled through Arduino IDE
+- Implemented user interaction through a button input, enabling manual toggling of the circuit's functionality and providing hands-on control of the lighting system
 
 
 ## Talks & Lectures
