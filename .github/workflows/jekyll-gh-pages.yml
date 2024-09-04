@@ -20,8 +20,12 @@ permissions:
 concurrency:
   group: "pages"
   cancel-in-progress: false
+  
+- name: Clean _site directory
+  run: rm -rf _site
 
 jobs:
+
   # Build job
   build:
     runs-on: ubuntu-latest
