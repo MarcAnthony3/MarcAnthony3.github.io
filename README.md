@@ -29,6 +29,11 @@
 - Demonstrated the complex interplay of engine components, resulting in a 15% increase in mechanical power conversion efficiency
 
 ### PSP 1000 SolidWorks (Jan. 2024)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="/assets/Psp1000Assem.jpg" alt="PSP 1000 Front" style="width: 48%;">
+  <img src="/assets/psp1000Back.jpg" alt="4 PSP 1000 Back" style="width: 40%;">
+</div>
+
 - Created an intricate 3D model of the PlayStation Portable (PSP) 1000 using SolidWorks, capturing the device's iconic design with 95% accuracy
 - Utilized advanced sketch tools to meticulously replicate the PSP's ergonomic form factor, precise button layouts, UMD drive, and other critical components with high accuracy
 - Enhanced the model's visual realism by simulating the PSP's signature screen backlight effect, using SolidWorks appearance tools to achieve a lifelike glow
