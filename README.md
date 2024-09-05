@@ -55,8 +55,8 @@
   
 ### LCD Message Display (Apr. 2024)
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="/assets/LCD1.jpg" alt="LCD1" style="width: 50%;">
-  <img src="/assets/LCD2.jpg" alt="LCD2" style="width: 50%;">
+  <img src="/assets/LCD1.jpg" alt="LCD1" style="width: 49%;">
+  <img src="/assets/LCD2.jpg" alt="LCD2" style="width: 48%;">
 </div>
 
 - Developed an interactive LCD display system using Arduino Uno, integrating a potentiometer for real-time brightness control and custom coding for dynamic message management
