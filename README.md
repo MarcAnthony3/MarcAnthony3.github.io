@@ -1,5 +1,5 @@
 <span style="float: right; font-size: 12px; font-weight: normal; margin-top: 10px;"><a href="mailto:19marcanthony99@gmail.com">19marcanthony99@gmail.com</a></span>
-# MarcAnthony Diaz 
+
 ## Education		        		
 - B.S. , Mechanical Engineering | California State University Northridge (Dec. 2025)
 #### Technical Skills: SolidWorks, Microcontroller Coding, Arduino IDE, TinkerCAD, Excel, Microsoft Suite  
@@ -8,8 +8,8 @@
 ## SolidWorks Projects
 ### Bi-axial test fixture (May 2024)
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="/assets/BiaxialAssem.jpg" alt="Biaxial Fixture" style="width: 35%;">
-  <img src="/assets/biaxialExploted.jpg" alt="Biaxial Fixture Exploded" style="width: 50%;">
+  <img src="/assets/BiaxialAssem.jpg" alt="Biaxial Fixture" style="width: 37%;">
+  <img src="/assets/biaxialExploted.jpg" alt="Biaxial Fixture Exploded" style="width: 52%;">
 </div>
 
 - Designed and developed a bi-axial tension/shear test fixture using SolidWorks, optimizing measurement accuracy by 15% for complex multi-axial stress states
@@ -31,8 +31,8 @@
 
 ### PSP 1000 (Jan. 2024)
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="/assets/Psp1000Assem.jpg" alt="PSP 1000 Front" style="width: 48%;">
-  <img src="/assets/psp1000Back.jpg" alt="PSP 1000 Back" style="width: 50%;">
+  <img src="/assets/Psp1000Assem.jpg" alt="PSP 1000 Front" style="width: 50%;">
+  <img src="/assets/psp1000Back.jpg" alt="PSP 1000 Back" style="width: 52%;">
 </div>
 
 - Created an intricate 3D model of the PlayStation Portable (PSP) 1000 using SolidWorks, capturing the device's iconic design with 95% accuracy
@@ -55,8 +55,8 @@
   
 ### LCD Message Display (Apr. 2024)
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="/assets/LCD1.jpg" alt="LCD1" style="width: 49%;">
-  <img src="/assets/LCD2.jpg" alt="LCD2" style="width: 48%;">
+  <img src="/assets/LCD1.jpg" alt="LCD1" style="width: 51%;">
+  <img src="/assets/LCD2.jpg" alt="LCD2" style="width: 50%;">
 </div>
 
 - Developed an interactive LCD display system using Arduino Uno, integrating a potentiometer for real-time brightness control and custom coding for dynamic message management
