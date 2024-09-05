@@ -1,7 +1,8 @@
 <span style="float: right; font-size: 12px; font-weight: normal; margin-top: 10px;"><a href="mailto:19marcanthony99@gmail.com">19marcanthony99@gmail.com</a></span>
 
 ## MarcAnthony Diaz
-## Education		        		
+## Education		     
+  <img src="/assets/csunlogo.jpg" alt="csun" style="width: 48%;">
 - B.S. , Mechanical Engineering : California State University Northridge (Dec. 2025) 
   
 ## Technical Skills
