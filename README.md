@@ -3,7 +3,7 @@
 ## Education		        		
 - B.S. , Mechanical Engineering | California State University Northridge (Dec. 2025)
   
-## Technical Skills: 
+## Technical Skills
 - SolidWorks, Microcontroller Coding, Arduino IDE, TinkerCAD, Excel, Microsoft Suite  
 
 
