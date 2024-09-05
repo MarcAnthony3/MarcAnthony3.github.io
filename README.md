@@ -1,9 +1,10 @@
 <span style="float: right; font-size: 12px; font-weight: normal; margin-top: 10px;"><a href="mailto:19marcanthony99@gmail.com">19marcanthony99@gmail.com</a></span>
 
-## <u>Education</u>			        		
+## Education		        		
 - B.S. , Mechanical Engineering | California State University Northridge (Dec. 2025)
   
-#### Technical Skills: SolidWorks, Microcontroller Coding, Arduino IDE, TinkerCAD, Excel, Microsoft Suite  
+## Technical Skills: 
+- SolidWorks, Microcontroller Coding, Arduino IDE, TinkerCAD, Excel, Microsoft Suite  
 
 
 ## SolidWorks Projects
