@@ -21,9 +21,6 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
   
-- name: Clean _site directory
-  run: rm -rf _site
-
 jobs:
 
   # Build job
@@ -32,13 +29,19 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Clean _site directory
+        run: rm -rf _site
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
