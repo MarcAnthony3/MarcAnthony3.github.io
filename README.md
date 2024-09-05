@@ -2,7 +2,7 @@
 
 ## MarcAnthony Diaz
 ## Education		     
-  <img src="/assets/csunlogo.jpg" alt="csun" style="width: 48%;">
+  
 - B.S. , Mechanical Engineering : California State University Northridge (Dec. 2025) 
   
 ## Technical Skills
