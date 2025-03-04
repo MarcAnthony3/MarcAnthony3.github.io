@@ -6,9 +6,11 @@
 ### Advanced in:  
 - SolidWorks (CAD, Assembly, Simulation)
 - Microsoft Suite (Excel, Word, PowerPoint)
+  
 ### Intermediate in:
 - FEA (using SolidWorks Simulation)
 - Microcontroller & Sensor Programming (using Arduino IDE)
+
 ### Developing in:
 - MATLAB
 - Circuit Analysis
