@@ -2,7 +2,7 @@
 
 ## MarcAnthony Diaz
 
-## Technical Skills
+<u>## Technical Skills</u>
 ### Advanced in:  
 - SolidWorks (CAD, Assembly, Simulation)
 - Microsoft Suite (Excel, Word, PowerPoint)
