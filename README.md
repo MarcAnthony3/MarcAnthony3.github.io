@@ -1,4 +1,4 @@
-<span style="float: left; font-size: 12px; font-weight: normal; margin-top: 10px;"><a href="mailto:19marcanthony99@gmail.com">19marcanthony99@gmail.com</a></span>
+<span style="font-size: 12px;"><a href="mailto:19marcanthony99@gmail.com">19marcanthony99@gmail.com</a></span>
 
 ## <span style="text-decoration: underline;">Technical Skills</span>
 ### Advanced in:  
