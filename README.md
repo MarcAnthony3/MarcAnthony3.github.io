@@ -19,17 +19,17 @@
 ### Certified Solidworks Associate (CSWA) - Dassault Systèmes (February 27, 2025) 
 
 ## <span style="text-decoration: underline;">SolidWorks Projects</span>
-### Bi-axial test fixture (May 2024)
+### Bi-Axial Test Fixture- FEA, SolidWorks (May 2024)
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="/assets/BiaxialAssem.jpg" alt="Biaxial Fixture" style="width: 38%;">
   <img src="/assets/biaxialExploted.jpg" alt="Biaxial Fixture Exploded" style="width: 53%;">
 </div>
 
-- Designed and developed a bi-axial tension/shear test fixture using SolidWorks, optimizing measurement accuracy by 15% for complex multi-axial stress states
-- Engineered the fixture with ASTM A572 Grade 50 steel, enhancing strength and cost-efficiency for reliable and repeatable test results
-- Integrated high-strength, low-alloy steel components, ensuring durability and dimensional stability through repeated testing cycles
-- Executed comprehensive CAD modeling, from initial concept to final assembly, demonstrating expertise in mechanical design and multi-component alignment
-- Facilitated accurate and consistent testing by meticulously aligning and securing various fixture parts, enhancing overall performance in aerospace and automotive applications
+- Engineered and optimized a biaxial test fixture for uniaxial testing machines, enabling multi-axis material testing
+- Conducted FEA on 304 Stainless Steel, identifying failure at 1,419 MPa (Yield Strength: 206.8 MPa)
+- Redesigned the fixture with AISI 4340 Steel, improving FOS from 0.15 to 0.415, but highlighting the need for further structural optimization under a 100 kN load
+- Refined CAD models in SolidWorks, enhancing cross-sections, fillets, and machining considerations
+- Validated design iterations through FEA, material selection, and failure analysis, demonstrating strong problem-solving in mechanical design
   
 ### Four cylinder motor (Mar. 2024)
 <div style="display: flex; justify-content: space-between; align-items: center;">
