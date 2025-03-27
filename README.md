@@ -14,7 +14,7 @@
 - Circuit Analysis
 
 ## <span style="text-decoration: underline;">Certifications</span>
-### Certified Solidworks Associate (CSWA) - Dassault Systèmes (February 27, 2025) 
+- Certified Solidworks Associate (CSWA): Dassault Systèmes (February 27, 2025) 
 
 ## <span style="text-decoration: underline;">SolidWorks Projects</span>
 ### Bi-Axial Test Fixture- FEA, SolidWorks (May 2024)
@@ -83,8 +83,8 @@
   
 ## <span style="text-decoration: underline;">Education</span>		     
   
-## California State University of Northridge- Northridge, CA
-- B.S. Mechanical Engineering- Expected Graduation: (December 2025)
+### Cal State Northridge- Northridge, CA
+- B.S. Mechanical Engineering: Expected Graduation (December 2025)
   
 
 
