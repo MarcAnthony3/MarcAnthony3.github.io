@@ -21,9 +21,9 @@
 ## <span style="text-decoration: underline;">SolidWorks Projects</span>
 ### Bi-Axial Test Fixture- FEA, SolidWorks (May 2024)
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="/assets/BiaxialAssem.jpg" alt="Biaxial Fixture Wireframe" style="width: 30%;">
-  <img src="/assets/Biaxialblue1.jpg" alt="Biaxial Fixture Blue Visualization" style="width: 30%;">
-  <img src="/assets/Biaxialchart1.jpg" alt="Biaxial Fixture Chart" style="width: 30%;">
+  <img src="/assets/BiaxialAssem.jpg" alt="Biaxial Fixture Wireframe" style="width: 33%; object-fit: contain; max-height: 300px;">
+  <img src="/assets/Biaxialblue1.jpg" alt="Biaxial Fixture Blue Visualization" style="width: 33%; object-fit: contain; max-height: 300px;">
+  <img src="/assets/Biaxialchart1.jpg" alt="Biaxial Fixture Chart" style="width: 33%; object-fit: contain; max-height: 300px;">
 </div>
 
 - Engineered and optimized a biaxial test fixture for uniaxial testing machines, enabling multi-axis material testing
