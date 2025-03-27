@@ -25,6 +25,11 @@
   <img src="/assets/Biaxialblue1.jpg" alt="Biaxial Fixture Blue Visualization" style="width: 33%; object-fit: contain; max-height: 300px;">
   <img src="/assets/Biaxialchart1.jpg" alt="Biaxial Fixture Chart" style="width: 25%; object-fit: contain; max-height: 300px;">
 </div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 15px;">
+  <img src="/assets/Biaxial2.jpg" alt="Biaxial Fixture Wireframe 2" style="width: 33%; object-fit: contain; max-height: 300px;">
+  <img src="/assets/Biaxialblue2.jpg" alt="Biaxial Fixture Blue Visualization 2" style="width: 33%; object-fit: contain; max-height: 300px;">
+  <img src="/assets/Biaxialchart2.jpg" alt="Biaxial Fixture Chart 2" style="width: 25%; object-fit: contain; max-height: 300px;">
+</div>
 
 - Engineered and optimized a biaxial test fixture for uniaxial testing machines, enabling multi-axis material testing
 - Conducted FEA on 304 Stainless Steel, identifying failure at 1,419 MPa (Yield Strength: 206.8 MPa)
