@@ -16,7 +16,7 @@
 - Circuit Analysis
 
 ## <span style="text-decoration: underline;">Certifications</span>
-###Certified Solidworks Associate (CSWA) - Dassault Systèmes (February 27, 2025) 
+### Certified Solidworks Associate (CSWA) - Dassault Systèmes (February 27, 2025) 
 
 ## SolidWorks Projects
 ### Bi-axial test fixture (May 2024)
