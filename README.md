@@ -77,9 +77,10 @@
 - Engineered a timer function to track and display elapsed time since program startup, demonstrating proficiency in real-time data processing and display
 - Utilized a breadboard and wiring to create a fully functional prototype, highlighting practical skills in electronic assembly and circuit design
   
-## Education		     
+## <span style="text-decoration: underline;">Education</span>		     
   
-## B.S. , Mechanical Engineering : California State University Northridge (Dec. 2025) 
+## California State University of Northridge- Northridge, California
+- B.S. Mechanical Engineering- Expected Graduation: (December 2025)
   
 
 
