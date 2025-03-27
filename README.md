@@ -79,7 +79,7 @@
   
 ## Education		     
   
-- B.S. , Mechanical Engineering : California State University Northridge (Dec. 2025) 
+## B.S. , Mechanical Engineering : California State University Northridge (Dec. 2025) 
   
 
 
