@@ -79,7 +79,7 @@
   
 ## <span style="text-decoration: underline;">Education</span>		     
   
-## California State University of Northridge- Northridge, California
+## California State University of Northridge- Northridge, CA
 - B.S. Mechanical Engineering- Expected Graduation: (December 2025)
   
 
