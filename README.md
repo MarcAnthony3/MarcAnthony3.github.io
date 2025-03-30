@@ -17,6 +17,17 @@
 - Certified Solidworks Associate (CSWA): Dassault Systèmes (February 27, 2025) 
 
 ## <span style="text-decoration: underline;">SolidWorks Projects</span>
+### Car Wheel Optimization Project- FEA, SolidWorks (October 2024)
+
+
+
+- Conducted FEA simulations to optimize a car wheel rim for impact resistance and weight reduction. 
+- Evaluated 1020 Steel and 6061 Aluminum designs, optimizing for strength-to-weight ratio.
+- Improved spoke geometry, achieving a 66% weight reduction (49.6 lbs to 16.8 lbs) while maintaining structural integrity.
+- Reduced maximum displacement by 64% (0.478 in to 0.174 in), increasing wheel stiffness.
+- Lowered maximum stress by 14% and increased Factor of Safety (FOS) from 0.107 to 0.159.
+- Conducted mesh convergence analysis, ensuring results remained consistent within a <5% deviation across refinements. 
+
 ### Bi-Axial Test Fixture- FEA, SolidWorks (May 2024)
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="/assets/BiaxialAssem.jpg" alt="Biaxial Fixture Wireframe" style="width: 33%; object-fit: contain; max-height: 300px;">
