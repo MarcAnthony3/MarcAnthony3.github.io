@@ -18,7 +18,25 @@
 
 ## <span style="text-decoration: underline;">SolidWorks Projects</span>
 ### Car Wheel Optimization Project- FEA, SolidWorks (October 2024)
-
+<div style="display: flex; flex-direction: column; gap: 20px;">
+  <!-- First row -->
+  <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+    <img src="Results1.jpg" alt="Results 1" style="width: 48%; object-fit: contain;">
+    <img src="Design1.jpg" alt="Design 1" style="width: 48%; object-fit: contain;">
+  </div>
+  
+  <!-- Second row -->
+  <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+    <img src="Results2.jpg" alt="Results 2" style="width: 48%; object-fit: contain;">
+    <img src="Design2.jpg" alt="Design 2" style="width: 48%; object-fit: contain;">
+  </div>
+  
+  <!-- Third row -->
+  <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+    <img src="Results3.jpg" alt="Results 3" style="width: 48%; object-fit: contain;">
+    <img src="Design3.jpg" alt="Design 3" style="width: 48%; object-fit: contain;">
+  </div>
+</div>
 
 
 - Conducted FEA simulations to optimize a car wheel rim for impact resistance and weight reduction. 
