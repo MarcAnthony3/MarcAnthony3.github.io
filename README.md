@@ -18,7 +18,11 @@
 
 ## <span style="text-decoration: underline;">SolidWorks Projects</span>
 ### Car Wheel Optimization Project- FEA, SolidWorks (October 2024)
-
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="/assets/Original_Design.jpg" alt="Original Wheel Design Analysis" style="width: 100%; object-fit: contain; max-height: 300px; margin-bottom: 20px;">
+  <img src="/assets/Iteration1.jpg" alt="Wheel Design Iteration 1 Analysis" style="width: 100%; object-fit: contain; max-height: 300px; margin-bottom: 20px;">
+  <img src="/assets/Iteration2.jpg" alt="Wheel Design Iteration 2 Analysis" style="width: 100%; object-fit: contain; max-height: 300px;">
+</div>
 
 
 - Conducted FEA simulations to optimize a car wheel rim for impact resistance and weight reduction. 
