@@ -24,6 +24,7 @@
   <img src="/assets/Results3.jpg" alt="Results 3" style="width: 48%; object-fit: contain; height: 250px;">
   <img src="/assets/Design3.jpg" alt="Design 3" style="width: 48%; object-fit: contain; height: 250px;">
 </div>
+
 - Conducted FEA simulations to optimize a car wheel rim for impact resistance and weight reduction. 
 - Evaluated 1020 Steel and 6061 Aluminum designs, optimizing for strength-to-weight ratio.
 - Improved spoke geometry, achieving a 66% weight reduction (49.6 lbs to 16.8 lbs) while maintaining structural integrity.
