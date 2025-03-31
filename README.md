@@ -76,6 +76,11 @@
 ## <span style="text-decoration: underline;">Arduino Projects</span>
 
 ### Controls Lead for CSUN S.W.E.E.T Team (Jan. 2025 - Present) 
+<!-- Additional row: Thermocouple.jpg and SD_Card.jpg side by side with equal height -->
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+  <img src="/assets/Thermocouple.jpg" alt="Thermocouple" style="width: 48%; object-fit: contain; height: 250px;">
+  <img src="/assets/SD_Card.jpg" alt="SD Card" style="width: 48%; object-fit: contain; height: 250px;">
+</div>
 <!-- Adjusted code images layout: Code1 on top of Code2, with Code3 on the right -->
 <div style="display: flex; justify-content: space-between; align-items: start; margin-top: 20px;">
   <!-- Left column with Code1 on top of Code2 -->
