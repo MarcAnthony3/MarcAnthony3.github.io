@@ -3,10 +3,10 @@
 ## <span style="text-decoration: underline;">Education</span>		     
   
 ### Cal State Northridge- Northridge, CA
-- B.S. Mechanical Engineering: Expected Graduation (December 2025)
+- B.S. Mechanical Engineering: Expected Graduation (Dec. 2025)
 
 ## <span style="text-decoration: underline;">SolidWorks Projects</span>
-### Car Wheel Optimization Project- FEA, SolidWorks (October 2024)
+### Car Wheel Optimization Project- FEA, SolidWorks (Oct. 2024)
 <!-- First row: Results1.jpg and Design1.jpg side by side with equal height -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="/assets/Results1.jpg" alt="Results 1" style="width: 48%; object-fit: contain; height: 250px;">
@@ -75,7 +75,7 @@
 
 ## <span style="text-decoration: underline;">Arduino Projects</span>
 
-### Controls Lead for CSUN (S.W.E.E.T Team) - Arduino, C++ (January 2025 - Present) 
+### Controls Lead for CSUN S.W.E.E.T Team (Jan. 2025 - Present) 
 
 - Serving as the Controls Lead, responsible for developing the Arduino-based data acquisition system.
 - Programmed the Arduino to interface with six MAX6675 thermocouple boards for temperature readings.
@@ -118,5 +118,5 @@
 - Circuit Analysis
 
 ## <span style="text-decoration: underline;">Certifications</span>
-### Certified Solidworks Associate (CSWA): Dassault Systèmes (February 27, 2025) 
+### Certified Solidworks Associate (CSWA): Dassault Systèmes (Feb. 27, 2025) 
   
