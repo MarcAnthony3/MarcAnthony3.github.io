@@ -75,6 +75,14 @@
 
 ## <span style="text-decoration: underline;">Arduino Projects</span>
 
+### Controls Lead for CSUN (S.W.E.E.T Team) - Arduino, C++ (January 2025 - Present) 
+
+- Serving as the Controls Lead, responsible for developing the Arduino-based data acquisition system.
+- Programmed the Arduino to interface with six MAX6675 thermocouple boards for temperature readings.
+-  Implemented C++ code to read temperature values directly from thermocouples, and log data to an SD card.
+- Utilized the MAX6675 and SD libraries to manage sensor communication and data storage.
+
+
 ### LED Night Light (Jan. 2024)
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="/assets/NightLight1.jpg" alt="NightLight1" style="width: 38%;">
