@@ -18,22 +18,22 @@
 
 ## <span style="text-decoration: underline;">SolidWorks Projects</span>
 ### Car Wheel Optimization Project- FEA, SolidWorks (October 2024)
-<!-- First row: Results1.jpg and Design1.jpg side by side -->
+<!-- First row: Results1.jpg and Design1.jpg side by side with equal height -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="/assets/Results1.jpg" alt="Results 1" style="width: 48%; object-fit: contain; max-height: 300px;">
-  <img src="/assets/Design1.jpg" alt="Design 1" style="width: 48%; object-fit: contain; max-height: 300px;">
+  <img src="/assets/Results1.jpg" alt="Results 1" style="width: 48%; object-fit: contain; height: 250px;">
+  <img src="/assets/Design1.jpg" alt="Design 1" style="width: 48%; object-fit: contain; height: 250px;">
 </div>
 
-<!-- Second row: Results2.jpg and Design2.jpg side by side -->
+<!-- Second row: Results2.jpg and Design2.jpg side by side with equal height -->
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
-  <img src="/assets/Results2.jpg" alt="Results 2" style="width: 48%; object-fit: contain; max-height: 300px;">
-  <img src="/assets/Design2.jpg" alt="Design 2" style="width: 48%; object-fit: contain; max-height: 300px;">
+  <img src="/assets/Results2.jpg" alt="Results 2" style="width: 48%; object-fit: contain; height: 250px;">
+  <img src="/assets/Design2.jpg" alt="Design 2" style="width: 48%; object-fit: contain; height: 250px;">
 </div>
 
-<!-- Third row: Results3.jpg and Design3.jpg side by side -->
+<!-- Third row: Results3.jpg and Design3.jpg side by side with equal height -->
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
-  <img src="/assets/Results3.jpg" alt="Results 3" style="width: 48%; object-fit: contain; max-height: 300px;">
-  <img src="/assets/Design3.jpg" alt="Design 3" style="width: 48%; object-fit: contain; max-height: 300px;">
+  <img src="/assets/Results3.jpg" alt="Results 3" style="width: 48%; object-fit: contain; height: 250px;">
+  <img src="/assets/Design3.jpg" alt="Design 3" style="width: 48%; object-fit: contain; height: 250px;">
 </div>
 - Conducted FEA simulations to optimize a car wheel rim for impact resistance and weight reduction. 
 - Evaluated 1020 Steel and 6061 Aluminum designs, optimizing for strength-to-weight ratio.
