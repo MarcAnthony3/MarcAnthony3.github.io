@@ -79,6 +79,12 @@
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <img src="/assets/Thermocouple.jpg" alt="Thermocouple" style="width: 48%; object-fit: contain; height: 250px;">
   <img src="/assets/SD_Card.jpg" alt="SD Card" style="width: 48%; object-fit: contain; height: 250px;"></div>
+<!-- Three images row: Code1.jpg, Code2.jpg, Code3.jpg side by side with equal height -->
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+  <img src="/assets/Code1.jpg" alt="Code 1" style="width: 32%; object-fit: contain; height: 250px;">
+  <img src="/assets/Code2.jpg" alt="Code 2" style="width: 32%; object-fit: contain; height: 250px;">
+  <img src="/assets/Code3.jpg" alt="Code 3" style="width: 32%; object-fit: contain; height: 250px;">
+</div>
 
 - Serving as the Controls Lead, responsible for developing the Arduino-based data acquisition system.
 - Programmed the Arduino to interface with six MAX6675 thermocouple boards for temperature readings.
