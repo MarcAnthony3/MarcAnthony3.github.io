@@ -73,7 +73,7 @@
 - Demonstrated comprehensive understanding of portable gaming device engineering by integrating all key elements and features that defined the PSP 1000's success in the market
 
 
-## <span style="text-decoration: underline;">Arduino Uno Projects</span>
+## <span style="text-decoration: underline;">Arduino Projects</span>
 
 ### LED Night Light (Jan. 2024)
 <div style="display: flex; justify-content: space-between; align-items: center;">
