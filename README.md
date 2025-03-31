@@ -76,6 +76,9 @@
 ## <span style="text-decoration: underline;">Arduino Projects</span>
 
 ### Controls Lead for CSUN S.W.E.E.T Team (Jan. 2025 - Present) 
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+  <img src="/assets/Thermocouple.jpg" alt="Thermocouple" style="width: 48%; object-fit: contain; height: 250px;">
+  <img src="/assets/SD_Card.jpg" alt="SD Card" style="width: 48%; object-fit: contain; height: 250px;"></div>
 
 - Serving as the Controls Lead, responsible for developing the Arduino-based data acquisition system.
 - Programmed the Arduino to interface with six MAX6675 thermocouple boards for temperature readings.
