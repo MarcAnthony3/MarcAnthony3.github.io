@@ -1,20 +1,9 @@
 <span style="font-size: 14px;"><a href="mailto:19marcanthony99@gmail.com">19marcanthony99@gmail.com</a></span>
 
-## <span style="text-decoration: underline;">Technical Skills</span>
-### Advanced in:  
-- SolidWorks (CAD, Assembly, Simulation)
-- Microsoft Suite (Excel, Word, PowerPoint)
+## <span style="text-decoration: underline;">Education</span>		     
   
-### Intermediate in:
-- FEA (using SolidWorks Simulation)
-- Microcontroller & Sensor Programming (using Arduino IDE)
-
-### Developing in:
-- MATLAB
-- Circuit Analysis
-
-## <span style="text-decoration: underline;">Certifications</span>
-- Certified Solidworks Associate (CSWA): Dassault Systèmes (February 27, 2025) 
+### Cal State Northridge- Northridge, CA
+- B.S. Mechanical Engineering: Expected Graduation (December 2025)
 
 ## <span style="text-decoration: underline;">SolidWorks Projects</span>
 ### Car Wheel Optimization Project- FEA, SolidWorks (October 2024)
@@ -105,12 +94,20 @@
 - Implemented a program that alternates between two messages every 3 seconds, showcasing skills in timing and display control using Arduino IDE
 - Engineered a timer function to track and display elapsed time since program startup, demonstrating proficiency in real-time data processing and display
 - Utilized a breadboard and wiring to create a fully functional prototype, highlighting practical skills in electronic assembly and circuit design
-  
-## <span style="text-decoration: underline;">Education</span>		     
-  
-### Cal State Northridge- Northridge, CA
-- B.S. Mechanical Engineering: Expected Graduation (December 2025)
-  
 
+## <span style="text-decoration: underline;">Technical Skills</span>
+### Advanced in:  
+- SolidWorks (CAD, Assembly, Simulation)
+- Microsoft Suite (Excel, Word, PowerPoint)
+  
+### Intermediate in:
+- FEA (using SolidWorks Simulation)
+- Microcontroller & Sensor Programming (using Arduino IDE)
 
+### Developing in:
+- MATLAB
+- Circuit Analysis
 
+## <span style="text-decoration: underline;">Certifications</span>
+- Certified Solidworks Associate (CSWA): Dassault Systèmes (February 27, 2025) 
+  
