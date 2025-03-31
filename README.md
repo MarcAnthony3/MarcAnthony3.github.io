@@ -76,14 +76,18 @@
 ## <span style="text-decoration: underline;">Arduino Projects</span>
 
 ### Controls Lead for CSUN S.W.E.E.T Team (Jan. 2025 - Present) 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
-  <img src="/assets/Thermocouple.jpg" alt="Thermocouple" style="width: 48%; object-fit: contain; height: 250px;">
-  <img src="/assets/SD_Card.jpg" alt="SD Card" style="width: 48%; object-fit: contain; height: 250px;"></div>
-<!-- Three images row: Code1.jpg, Code2.jpg, Code3.jpg side by side with equal height -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
-  <img src="/assets/Code1.jpg" alt="Code 1" style="width: 32%; object-fit: contain; height: 250px;">
-  <img src="/assets/Code2.jpg" alt="Code 2" style="width: 32%; object-fit: contain; height: 250px;">
-  <img src="/assets/Code3.jpg" alt="Code 3" style="width: 32%; object-fit: contain; height: 250px;">
+<!-- Adjusted code images layout: Code1 on top of Code2, with Code3 on the right -->
+<div style="display: flex; justify-content: space-between; align-items: start; margin-top: 20px;">
+  <!-- Left column with Code1 on top of Code2 -->
+  <div style="width: 48%; display: flex; flex-direction: column; gap: 10px;">
+    <img src="/assets/Code1.jpg" alt="Code 1" style="width: 100%; object-fit: contain;">
+    <img src="/assets/Code2.jpg" alt="Code 2" style="width: 100%; object-fit: contain;">
+  </div>
+  
+  <!-- Right column with just Code3 -->
+  <div style="width: 48%;">
+    <img src="/assets/Code3.jpg" alt="Code 3" style="width: 100%; object-fit: contain;">
+  </div>
 </div>
 
 - Serving as the Controls Lead, responsible for developing the Arduino-based data acquisition system.
