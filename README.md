@@ -76,15 +76,17 @@
 ## <span style="text-decoration: underline;">Technical Skills</span>
 ### Advanced in:  
 - SolidWorks (CAD, Assembly, Simulation)
+- Mechanical Drafting & Design (using SolidWorks)
 - Microsoft Suite (Excel, Word, PowerPoint)
   
 ### Intermediate in:
-- FEA (using SolidWorks Simulation)
-- 
+- FEA (Using SolidWorks Simulation)
+- Engineering Support & Collaboration
 
 ### Developing in:
 - MATLAB
-- 
+- Wire Harnesses
+- ASME Standards
 
 ## <span style="text-decoration: underline;">Certifications</span>
 ### Certified Solidworks Associate (CSWA): Dassault Systèmes (Feb. 27, 2025) 
