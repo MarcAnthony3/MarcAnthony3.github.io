@@ -76,7 +76,7 @@
 ## <span style="text-decoration: underline;">Technical Skills</span>
 ### Advanced in:  
 - SolidWorks (CAD, Assembly, Simulation)
-- Mechanical Drafting & Design (using SolidWorks)
+- Mechanical Drafting & Design (Using SolidWorks)
 - Microsoft Suite (Excel, Word, PowerPoint)
   
 ### Intermediate in:
@@ -85,7 +85,7 @@
 
 ### Developing in:
 - MATLAB
-- Wire Harnesses
+- Wire Harnesse Development
 - ASME Standards
 
 ## <span style="text-decoration: underline;">Certifications</span>
