@@ -73,56 +73,6 @@
 - Enhanced the model's visual realism by simulating the PSP's signature screen backlight effect, using SolidWorks appearance tools to achieve a lifelike glow.
 - Demonstrated comprehensive understanding of portable gaming device engineering by integrating all key elements and features that defined the PSP 1000's success in the market.
 
-
-## <span style="text-decoration: underline;">Arduino Projects</span>
-
-### Controls Lead for CSUN S.W.E.E.T Team (Jan. 2025 - Present) 
-<!-- Additional row: Thermocouple.jpg and SD_Card.jpg side by side with equal height -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
-  <img src="/assets/Thermocouple.jpg" alt="Thermocouple" style="width: 48%; object-fit: contain; height: 250px;">
-  <img src="/assets/SD_Card.jpg" alt="SD Card" style="width: 48%; object-fit: contain; height: 250px;">
-</div>
-<!-- Adjusted code images layout: Code1 on top of Code2, with Code3 on the right -->
-<div style="display: flex; justify-content: space-between; align-items: start; margin-top: 20px;">
-  <!-- Left column with Code1 on top of Code2 -->
-  <div style="width: 48%; display: flex; flex-direction: column; gap: 10px;">
-    <img src="/assets/Code1.jpg" alt="Code 1" style="width: 100%; object-fit: contain;">
-    <img src="/assets/Code2.jpg" alt="Code 2" style="width: 100%; object-fit: contain;">
-  </div>
-  
-  <!-- Right column with just Code3 -->
-  <div style="width: 48%;">
-    <img src="/assets/Code3.jpg" alt="Code 3" style="width: 100%; object-fit: contain;">
-  </div>
-</div>
-
-- Serving as the Controls Lead, responsible for developing the Arduino-based data acquisition system.
-- Programmed the Arduino to interface with six MAX6675 thermocouple boards for temperature readings.
--  Implemented C++ code to read temperature values directly from thermocouples, and log data to an SD card.
-- Utilized the MAX6675 and SD libraries to manage sensor communication and data storage.
-
-
-### LED Night Light (Jan. 2024)
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="/assets/NightLight1.jpg" alt="NightLight1" style="width: 38%;">
-  <img src="/assets/NightLight2.jpg" alt="NightLight2" style="width: 37%;">
-</div>
-
-- Developed an automated night light system using Arduino Uno, incorporating a photoresistor, LED, and custom coding to detect light levels and control LED illumination.
-- Programmed the circuit to dynamically respond to environmental light changes, activating the LED in low-light conditions and turning it off when sufficient light is detected, all controlled through Arduino IDE.
-- Implemented user interaction through a button input, enabling manual toggling of the circuit's functionality and providing hands-on control of the lighting system.
-  
-### LCD Message Display (Apr. 2024)
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="/assets/LCD1.jpg" alt="LCD1" style="width: 49%;">
-  <img src="/assets/LCD2.jpg" alt="LCD2" style="width: 48%;">
-</div>
-
-- Developed an interactive LCD display system using Arduino Uno, integrating a potentiometer for real-time brightness control and custom coding for dynamic message management.
-- Implemented a program that alternates between two messages every 3 seconds, showcasing skills in timing and display control using Arduino IDE.
-- Engineered a timer function to track and display elapsed time since program startup, demonstrating proficiency in real-time data processing and display.
-- Utilized a breadboard and wiring to create a fully functional prototype, highlighting practical skills in electronic assembly and circuit design.
-
 ## <span style="text-decoration: underline;">Technical Skills</span>
 ### Advanced in:  
 - SolidWorks (CAD, Assembly, Simulation)
@@ -130,11 +80,11 @@
   
 ### Intermediate in:
 - FEA (using SolidWorks Simulation)
-- Microcontroller & Sensor Programming (using Arduino IDE)
+- 
 
 ### Developing in:
 - MATLAB
-- Circuit Analysis
+- 
 
 ## <span style="text-decoration: underline;">Certifications</span>
 ### Certified Solidworks Associate (CSWA): Dassault Systèmes (Feb. 27, 2025) 
