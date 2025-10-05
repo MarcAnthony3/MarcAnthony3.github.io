@@ -25,25 +25,124 @@
         <section id="projects">
             <h2>SolidWorks Projects</h2>
 
-            <article class="project">
-                <h3>Car Wheel Optimization Project</h3>
-                <p class="project-meta">FEA, SolidWorks (Oct. 2024)</p>
-                <div class="project-gallery">
-                    <figure><img src="assets/Results1.jpg" alt="FEA Stress Results"></figure>
-                    <figure><img src="assets/Design1.jpg" alt="Initial Wheel Design"></figure>
-                    <figure><img src="assets/Results2.jpg" alt="FEA Displacement Results"></figure>
-                    <figure><img src="assets/Design2.jpg" alt="Intermediate Wheel Design"></figure>
-                    <figure><img src="assets/Results3.jpg" alt="Final FEA Results"></figure>
-                    <figure><img src="assets/Design3.jpg" alt="Final Optimized Wheel Design"></figure>
-                </div>
-                <ul class="project-description">
-                    <li>Conducted FEA simulations to optimize a car wheel rim for impact resistance and weight reduction.</li>
-                    <li>Evaluated 1020 Steel and 6061 Aluminum designs, optimizing for strength-to-weight ratio.</li>
-                    <li>Improved spoke geometry, achieving a <strong>66% weight reduction</strong> while maintaining structural integrity.</li>
-                    <li>Reduced maximum displacement by <strong>64%</strong>, increasing wheel stiffness.</li>
-                    <li>Increased Factor of Safety (FOS) from <strong>0.107 to 0.159</strong>.</li>
-                </ul>
-            </article>
+<article class="project">
+    <h3>Car Wheel Optimization Project</h3>
+    <p class="project-meta">FEA, SolidWorks (Oct. 2024)</p>
+
+    <div class="iteration-block">
+        <div class="iteration-results">
+            <h4>Original Design Analysis Results</h4>
+            <table>
+                <tr>
+                    <td>Mesh Type</td>
+                    <td>Solid</td>
+                </tr>
+                <tr>
+                    <td>Element Size</td>
+                    <td>8.645 mm</td>
+                </tr>
+                <tr>
+                    <td>Tolerance</td>
+                    <td>0.432 mm</td>
+                </tr>
+                <tr>
+                    <td>Max Von Mises Stress</td>
+                    <td>319,654 psi</td>
+                </tr>
+                <tr>
+                    <td>Max Displacement</td>
+                    <td>0.171 in</td>
+                </tr>
+                <tr>
+                    <td>Min FOS</td>
+                    <td>0.160</td>
+                </tr>
+            </table>
+        </div>
+        <div class="iteration-images">
+            <img src="assets/Results1.jpg" alt="Original Design FEA - Front">
+            <img src="assets/Design1.jpg" alt="Original Design FEA - Back">
+        </div>
+    </div>
+
+    <div class="iteration-block">
+        <div class="iteration-results">
+            <h4>Iteration 1 Analysis Results</h4>
+            <table>
+                <tr>
+                    <td>Mesh Type</td>
+                    <td>Solid</td>
+                </tr>
+                <tr>
+                    <td>Element Size</td>
+                    <td>8.461 mm</td>
+                </tr>
+                <tr>
+                    <td>Tolerance</td>
+                    <td>0.423 mm</td>
+                </tr>
+                <tr>
+                    <td>Max Von Mises Stress</td>
+                    <td>373,142 psi</td>
+                </tr>
+                <tr>
+                    <td>Max Displacement</td>
+                    <td>0.478 in</td>
+                </tr>
+                <tr>
+                    <td>Min FOS</td>
+                    <td>0.107</td>
+                </tr>
+            </table>
+        </div>
+        <div class="iteration-images">
+            <img src="assets/Results2.jpg" alt="Iteration 1 FEA - Front">
+            <img src="assets/Design2.jpg" alt="Iteration 1 FEA - Back">
+        </div>
+    </div>
+
+    <div class="iteration-block">
+        <div class="iteration-results">
+            <h4>Iteration 2 Analysis Results</h4>
+            <table>
+                <tr>
+                    <td>Mesh Type</td>
+                    <td>Solid</td>
+                </tr>
+                <tr>
+                    <td>Element Size</td>
+                    <td>8.634 mm</td>
+                </tr>
+                <tr>
+                    <td>Tolerance</td>
+                    <td>0.432 mm</td>
+                </tr>
+                <tr>
+                    <td>Max Von Mises Stress</td>
+                    <td>320,126 psi</td>
+                </tr>
+                <tr>
+                    <td>Max Displacement</td>
+                    <td>0.174 in</td>
+                </tr>
+                <tr>
+                    <td>Min FOS</td>
+                    <td>0.159</td>
+                </tr>
+            </table>
+        </div>
+        <div class="iteration-images">
+            <img src="assets/Results3.jpg" alt="Iteration 2 FEA - Front">
+            <img src="assets/Design3.jpg" alt="Iteration 2 FEA - Back">
+        </div>
+    </div>
+
+    <ul class="project-description">
+        <li>Conducted FEA simulations to optimize a car wheel rim for impact resistance and weight reduction.</li>
+        <li>Improved spoke geometry, achieving a <strong>66% weight reduction</strong> while maintaining structural integrity.</li>
+        <li>Reduced maximum displacement by <strong>64%</strong>, increasing wheel stiffness.</li>
+    </ul>
+</article>
 
             <article class="project">
                 <h3>Bi-Axial Test Fixture</h3>
