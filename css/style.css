@@ -141,3 +141,21 @@ footer {
     color: #495057;
     font-size: 1.1em;
 }
+/* Styling for single media items like PDFs or videos */
+.project-media-item {
+    max-width: 80%; /* Adjust percentage as needed */
+    margin: 20px auto 30px; /* Centers the item and adds space */
+    text-align: center;
+}
+
+.project-media-item video {
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
+}
+
+.project-media-item figcaption {
+    margin-top: 8px;
+    font-size: 0.9em;
+    color: #6c757d;
+}
