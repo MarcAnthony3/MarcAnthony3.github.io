@@ -182,3 +182,18 @@ footer {
     color: #ffffff;
     border-color: #007bff;
 }
+/* === Responsive Fixes for Mobile === */
+
+@media (max-width: 768px) {
+
+    /* This stacks your 3 skills columns vertically on mobile */
+    .skills-list {
+        flex-direction: column;
+        gap: 30px; /* Adds space between the stacked sections */
+    }
+
+    /* This makes your certification image wider on mobile to match other content */
+    .certification-image img {
+        max-width: 80%; /* Increases size to match other media items */
+    }
+}
